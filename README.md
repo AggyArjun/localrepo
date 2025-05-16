@@ -1,1 +1,1 @@
-#This is my local repo made to learn basics of gti and github
+# This is my local repo made to learn basics of gti and github
